@@ -12,7 +12,7 @@ Install dependency
 
 
 Install front dependency
-cd front
+### cd front
 ### `npm install`
 
 
